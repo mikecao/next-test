@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "directory-tree": "^2.2.9",
     "maxmind": "^4.3.2",
     "next": "11.0.1",
     "react": "17.0.2",
